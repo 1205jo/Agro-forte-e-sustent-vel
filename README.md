@@ -33,9 +33,8 @@ Este site é uma demonstração de como uma presença online pode apoiar a agric
 
 ---
 
+## Agrinho
+
 ## 🚀 Como Visualizar
 
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/<seu-usuario>/agro-forte-sustentavel.git
+Link: https://1205jo.github.io/Agro-forte-e-sustent-vel/
